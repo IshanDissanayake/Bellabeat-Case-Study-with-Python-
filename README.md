@@ -1,1 +1,1 @@
-# A_Bellabeat_Analysis
+# Bellabeat case study with Python
